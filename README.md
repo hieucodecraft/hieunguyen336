@@ -8,8 +8,10 @@
 
 ## 📫 How to contact me:
 
-Email: ***hoanghieu.nguyen329"gmail.com
+Email: ***hoanghieu.nguyen329"gmail.com***
+
 ---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieunguyen336&layout=compact" alt="hieunguyen336" />&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=hieunguyen336&show_icons=true&count_private=true&theme=algolia" alt="hieunguyen336" />
